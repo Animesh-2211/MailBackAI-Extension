@@ -4,7 +4,7 @@ This Chrome extension generates email replies using AI. It supports various tone
 
 ## How to Install
 
-1. Download the extension ZIP file from the [Releases section](https://github.com/Animesh-2211/MailBackAI-Extension/archive/refs/tags/v1.0.zip).
+1. Download the extension ZIP file from [here](https://github.com/Animesh-2211/MailBackAI-Extension/archive/refs/tags/v1.0.zip).
 2. Unzip the downloaded file.
 3. Inside the extracted folder, you will find another folder. Unzip this inner folder as well.
 4. Open Chrome and go to `chrome://extensions/`.
